@@ -1,2 +1,2 @@
-# Merger-and-acquisition
+# Merge-and-acquisition
 data cleaning (simple task)
